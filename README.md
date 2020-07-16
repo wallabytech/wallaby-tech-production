@@ -1,2 +1,2 @@
 # wallaby-tech-production
-The production website for wallabytech
+The repo for the production website of wallabytech.
